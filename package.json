@@ -1,0 +1,17 @@
+{
+  "name": "itproger",
+  "version": "0.0.1",
+  "description": "first project in node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mlgtw",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "currency-converter-lt": "^2.0.1",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2"
+  }
+}
