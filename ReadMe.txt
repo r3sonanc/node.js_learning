@@ -5,5 +5,6 @@ http://localhost:3000/user/n - n-person
 
 Instructure
 
+0. Write npm add in Terminal
 1. Write npm run start in Terminal
 2. Go to http://localhost:3000 in your browser 
